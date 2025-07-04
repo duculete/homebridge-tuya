@@ -20,7 +20,7 @@
   "author": "Rayan Khan - Fork Duculete",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
+    "url": "https://github.com/duculete/homebridge-tuya/issues"
   },
   "homepage": "https://github.com/duculete/homebridge-tuya.git",
   "dependencies": {
